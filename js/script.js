@@ -62,7 +62,7 @@ const questions = [
     {
       question: "Qual discipulo Jesus mais amor?",
       choices: ["Pedro", "João", "Tomé", "Elias"],
-      answer: "Jo",
+      answer: "João",
     },
   ];
   const questionElement = document.getElementById("question");
